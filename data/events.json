@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Бой с лесным монстром", "difficulty": "easy"},
+  {"id": 2, "name": "Гонка по каньону", "difficulty": "medium"},
+  {"id": 3, "name": "Нападение бандитов", "difficulty": "hard"}
+]
