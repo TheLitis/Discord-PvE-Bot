@@ -1,6 +1,0 @@
-python-dotenv
-discord.py[voice]
-aiosqlite
-SQLAlchemy[aio]
-pytest
-flake8
