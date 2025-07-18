@@ -1,8 +1,12 @@
 Discord PvE MMO Bot
 Бот для Discord с системой прокачки, PvE-событиями, квестами и инвентарём в фэнтези-мире Эймерии.
-Установка
 
-Установите Python и discord.py:pip install discord.py
+## Установка
+
+1. Клонировать репозиторий  
+2. Скопировать `.env.example` → `.env` и заполнить переменные  
+3. `docker build -t discord-pve-bot .` или `pip install -r requirements.txt`  
+4. `python bot.py`
 
 
 Замените YOUR_BOT_TOKEN в config.py на токен вашего бота.
