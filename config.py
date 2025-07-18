@@ -1,0 +1,3 @@
+TOKEN = 'YOUR_BOT_TOKEN'
+PREFIX = '/'
+DB_NAME = 'game.db'
